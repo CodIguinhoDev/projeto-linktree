@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ECFFCA;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    align-items: center;
+}
+
+.cabecalho img {
+    width: 200px;
+    object-fit: cover;
+    height: 200px;
+    border-radius: 100%;
+    border: black 3px solid;
+    box-shadow: black 0px 4px 4px;
+}
+
+.cabecalho h1 {
+    font-size: 20px;
+}
+
+.botoes {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.botoes a {
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+    border-radius: 100px;
+    border: black solid 2px;
+    box-shadow: black 5px 5px 0;
+    text-decoration: none;
+    width: 235px;
+    color: black;
+    background-color: #7cefb9;
+}
+
+.github:hover {
+    background-color: gainsboro;
+}
+
+.linkedin:hover {
+    background-color: #0077b5;
+}
+
+.instagram:hover {
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}

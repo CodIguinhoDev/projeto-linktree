@@ -5,8 +5,7 @@ A ideia foi montar uma página simples para reunir minhas principais redes socia
 
 Tecnologias utilizadas:
 
-HTML5
-CSS3
+HTML5 e CSS3
 
 O que você vai encontrar?
 Foto de perfil personalizada;

@@ -1,7 +1,7 @@
 🚀 Meu Linktree Customizado
 
 Criei uma versão própria do Linktree, usando apenas HTML e CSS.
-A ideia foi montar uma página simples para reunir minhas principais redes sociais em um só lugar, com um visual limpo e responsivo.
+A ideia foi montar uma página simples para reunir minhas principais redes sociais em um só lugar, com um visual limpo.
 
 Tecnologias utilizadas:
 

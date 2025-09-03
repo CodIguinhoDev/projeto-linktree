@@ -10,9 +10,13 @@ HTML5 e CSS3
 O que você vai encontrar?
 
 Foto de perfil personalizada;
+
 Links para GitHub;
+
 LinkedIn e Instagram;
+
 Botões estilizados com efeito de sombra;
+
 Layout minimalista e direto ao ponto;
 
 

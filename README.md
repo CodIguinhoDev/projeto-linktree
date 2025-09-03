@@ -11,9 +11,7 @@ O que você vai encontrar?
 
 Foto de perfil personalizada;
 
-Links para GitHub;
-
-LinkedIn e Instagram;
+Links para GitHub, LinkedIn e Instagram;
 
 Botões estilizados com efeito de sombra;
 
